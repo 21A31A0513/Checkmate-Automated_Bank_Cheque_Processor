@@ -2,6 +2,7 @@
 <br>
 CheckMate is an advanced software solution designed to automate the processing of bank cheques. It extracts individual cheques from scanned PDF documents, processes each cheque, and extracts key details such as payee name, amount, and account number into structured formats like CSV or Excel files. This project leverages Python, Streamlit, and the Gemini API for seamless cheque processing.
 <br>
+<br>
 📝 Features:<br>
 Extracts individual cheques from multi-page PDF files/images.<br>
 Automatically identifies and extracts:<br>
@@ -30,7 +31,6 @@ Resources and tutorials on Python, Streamlit, and Gemini API.<BR>
 <br>
 📸 Screenshots:<br>
 ![Screenshot 2024-12-24 133356](https://github.com/user-attachments/assets/1f8b0652-ba19-41d0-be1e-391fc3b35e69)
-![Screenshot 2024-12-24 133439](https://github.com/user-attachments/assets/1475049f-d0e9-48a6-95ee-cc887e7ee6a6)
-![Screenshot 2024-12-24 133510](https://github.com/user-attachments/assets/26fc2884-0864-4ec0-8755-e21f952117b8)
+
 
 
