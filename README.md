@@ -20,6 +20,11 @@ Gemini API: For PDF and cheque image processing.<br>
 Pandas: For managing and exporting extracted data.<br>
 SQLite: For user authentication and data storage.<br>
 <br>
+📸 Screenshots:<br>
+![Screenshot 2024-12-24 133356](https://github.com/user-attachments/assets/1c569acc-a5e8-4bed-818c-85c76947d0b2)<br>
+![Screenshot 2024-12-24 133439](https://github.com/user-attachments/assets/83a81e71-3336-46ed-a4ab-d749866b5db1)<br>
+![Screenshot 2024-12-24 133510](https://github.com/user-attachments/assets/59460efc-ad3f-4fb5-af56-be18ec850abb)
+
 ✨ Use Cases:<br>
 Automating cheque processing in banks.<br>
 Reducing manual errors in cheque data extraction.<br>
@@ -29,8 +34,8 @@ Faster reconciliation and record-keeping.<br>
 Special thanks to Infosys Springboard Internship for inspiring this project.<br>
 Resources and tutorials on Python, Streamlit, and Gemini API.<BR>
 <br>
-📸 Screenshots:<br>
-![Screenshot 2024-12-24 133356](https://github.com/user-attachments/assets/1f8b0652-ba19-41d0-be1e-391fc3b35e69)
+
+
 
 
 
